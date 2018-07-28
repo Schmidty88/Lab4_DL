@@ -1,0 +1,4 @@
+model_checkpoint_path: "C:\\Users\\tjsch\\Desktop\\DL_Lab_2_Team_6-master\\DL_Lab_2_Team_6-master\\DL_Lab_2_1\\runs\\1532731242\\checkpoints\\model-300"
+all_model_checkpoint_paths: "C:\\Users\\tjsch\\Desktop\\DL_Lab_2_Team_6-master\\DL_Lab_2_Team_6-master\\DL_Lab_2_1\\runs\\1532731242\\checkpoints\\model-100"
+all_model_checkpoint_paths: "C:\\Users\\tjsch\\Desktop\\DL_Lab_2_Team_6-master\\DL_Lab_2_Team_6-master\\DL_Lab_2_1\\runs\\1532731242\\checkpoints\\model-200"
+all_model_checkpoint_paths: "C:\\Users\\tjsch\\Desktop\\DL_Lab_2_Team_6-master\\DL_Lab_2_Team_6-master\\DL_Lab_2_1\\runs\\1532731242\\checkpoints\\model-300"
